@@ -16,7 +16,7 @@
       font-size: 24px;
       margin-bottom: 20px;
     }
-    .ua-box {
+    。ua-box {
       display: inline-block;
       background: #fff;
       padding: 20px 30px;
@@ -26,7 +26,7 @@
       text-align: left;
       max-width: 90%;
     }
-    .label {
+    。label {
       font-weight: bold;
       margin-right: 6px;
       color: #555;
